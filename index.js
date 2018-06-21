@@ -1,2 +1,5 @@
 //Code your solution here
-function nestedTarget()
+function nestedTarget();
+
+class queryselector
+const .queryselector
