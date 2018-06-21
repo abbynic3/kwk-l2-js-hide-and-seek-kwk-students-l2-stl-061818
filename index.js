@@ -1,2 +1,4 @@
 //Code your solution here
-getFirstSelector
+function getFirstSelector(selector) {
+  return document.querySelector(selector)
+}
