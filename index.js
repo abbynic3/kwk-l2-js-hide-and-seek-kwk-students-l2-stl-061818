@@ -10,3 +10,7 @@ function nestedTarget(target) {
 function increaseRankBy(n) {
   return document.querySelectorAll('.ranked-list')
 }
+
+function deepestChild() {
+  return document.querySelectorAll('div#grand-node')
+}
